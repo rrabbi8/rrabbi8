@@ -85,7 +85,7 @@ My extensive knowledge of common design patterns for software system architectur
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrabbi8&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrabbi8&hide_border=true&layout=compact" align="centre"/>
 
 </td></tr></table>  
 

@@ -29,7 +29,7 @@ My extensive knowledge of common design patterns for software system architectur
 <br/>  
 
 
-## Rapidfire  
+## Quick Facts  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [SocioNet](https://github.com/rrabbi8/socialmedia)  

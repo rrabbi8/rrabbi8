@@ -77,7 +77,7 @@ My extensive knowledge of common design patterns for software system architectur
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -96,3 +96,4 @@ My extensive knowledge of common design patterns for software system architectur
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rrabbi8&&style=flat-square)
+-->

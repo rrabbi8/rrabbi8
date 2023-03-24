@@ -20,11 +20,12 @@
 
 
 
-### Good to see you here!  
-As a computer scientist, I am deeply passionate about the impact of technology on our daily lives. My recent graduation from the University of Melbourne has equipped me with a strong understanding of data structures and algorithms, enabling me to tackle complex problems with ease. With proficiency in programming languages such as Java, C, and Python, as well as web development languages like HTML, CSS, and JavaScript, I am adept at building functional computer systems that cater to the needs of users.
+### Good to see you here!
+As a computer scientist, I am passionate about technology's impact on our daily lives. 
+Graduating from The University Melbourne, I posess strong skills in data structures, algorithms and proficiency in several programming languages (Java, C, Python, HTML, CSS, and JavaScript). 
 
-My extensive knowledge of common design patterns for software system architecture makes me an invaluable member of any team. Through my capstone project experience, I have developed crucial skills in managing client requirements, documenting project progress, and delivering fully functional products. As a result, I possess a solid foundation for handling project life cycles, and I am confident in my ability to deliver exceptional results in any project I undertake.  
-  
+My extensive knowledge of common design patterns for software system architecture and expeirence through several projects, makes me an invaluable team member with a solid foundation for handling project life cycles and delivering exceptional results.
+
 
 <br/>  
 

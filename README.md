@@ -22,7 +22,7 @@
 
 ### Good to see you here!
 As a computer scientist, I am passionate about technology's impact on our daily lives. 
-Graduating from The University Melbourne, I posess strong skills in data structures, algorithms and proficiency in several programming languages (Java, C, Python, HTML, CSS, and JavaScript). 
+Graduating from The University of Melbourne, I posess strong skills in data structures, algorithms and proficiency in several programming languages (Java, C, Python, HTML, CSS, and JavaScript). 
 
 My extensive knowledge of common design patterns for software system architecture and expeirence through several projects, makes me an invaluable team member with a solid foundation for handling project life cycles and delivering exceptional results.
 

@@ -48,7 +48,7 @@ My extensive knowledge of common design patterns for software system architectur
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" style="width: 100%" />
 </div>  
 
 

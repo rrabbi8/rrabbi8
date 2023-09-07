@@ -22,9 +22,9 @@
 
 ### Good to see you here!
 As a computer scientist, I am passionate about technology's impact on our daily lives. 
-Graduating from The University of Melbourne, I posess strong skills in data structures, algorithms and proficiency in several programming languages (Java, C, Python, HTML, CSS, and JavaScript). 
+Graduating from The University of Melbourne, I possess strong skills in data structures, algorithms and proficiency in several programming languages (Java, C, Python, HTML, CSS, and JavaScript). 
 
-My extensive knowledge of common design patterns for software system architecture and expeirence through several projects, makes me an invaluable team member with a solid foundation for handling project life cycles and delivering exceptional results.
+My extensive knowledge of common design patterns for software system architecture and experience through several projects make me an invaluable team member with a solid foundation for handling project life cycles and delivering exceptional results.
 
 
 <br/>  
@@ -33,7 +33,7 @@ My extensive knowledge of common design patterns for software system architectur
 ## Quick Facts  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [SocioNet](https://github.com/rrabbi8/socialmedia)  
+- 🔭 I’m currently working on [BookHub](https://github.com/rrabbi8/library)  
   
 
 - 🌱 I’m currently learning MERN Stack  

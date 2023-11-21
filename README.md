@@ -36,7 +36,7 @@ My extensive knowledge of common design patterns for software system architectur
 - 🔭 I’m currently working on [Genius](https://github.com/rrabbi8/ai-platform) 
   
 
-- 🌱 I’m currently learning MERN Stack  
+- 🌱 I’m currently learning Next.js
   
 
 - ❓ Ask me about anything related to Data Structures, Algorithms, Object-oriented concepts  

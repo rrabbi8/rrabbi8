@@ -33,7 +33,7 @@ My extensive knowledge of common design patterns for software system architectur
 ## Quick Facts  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [BookHub](https://rrabbi8.github.io/personal-projects/library/index.html) 
+- 🔭 I’m currently working on [Genius](https://github.com/rrabbi8/ai-platform) 
   
 
 - 🌱 I’m currently learning MERN Stack  
